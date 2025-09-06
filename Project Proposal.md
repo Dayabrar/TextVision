@@ -1,4 +1,4 @@
-![University Logo](media/image1.jpeg)
+![University Logo](image/Picture1.png)
 
 **University of Frontier Technology, Bangladesh**
 
